@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/55658c05-6bb9-4d96-9582-5de9b8bcdcc0
 
 
 
-# Практична робота №8
+# Практична робота №9
 
 ## Тема
 
